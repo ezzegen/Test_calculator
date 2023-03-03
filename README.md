@@ -1,5 +1,5 @@
 # Простейший калькулятор.
-<img src="img\calc.png">
+<img src="img\calc.png" width='300'>
 <p>Python > 3.6 </p>
 <p>Поддерживает элементарные операции с числами:</p>
     <ul>
@@ -7,7 +7,7 @@
         <li>умножение/деление;</li>
         <li>возведение в степень.</li>
     </ul>
-<img src="img\calc_example.png">
+<img src="img\calc_example.png" width='300'>
 <p>Для запуска:<br>
 * python calculator.py<br>
 или<br>
